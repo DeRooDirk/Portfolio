@@ -83,3 +83,23 @@
     border: #000000;
     border-radius: 20px;
 }
+
+/* --- Dirk -- */ 
+ul {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: yellowgreen;
+    
+}
+.dirk{
+    border: 2px solid red;
+    padding :0.75rem  1.55rem ;
+    margin-right: 1rem;
+}
